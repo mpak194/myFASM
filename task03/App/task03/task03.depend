@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1605712861 source:c:\users\mark\desktop\юбя\task03\app\task03\main.cpp
+	<iostream>
+	<thread>
+	<vector>
+	<ctime>
+	<chrono>
+
