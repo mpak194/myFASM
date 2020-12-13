@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1607892457 source:c:\ВШЭ\2 Курс\Архитектура вычислительных систем\m_proj_2\app\app\main.cpp
+	<iostream>
+	<semaphore.h>
+	<ctime>
+	<map>
+	<thread>
+	<vector>
+	<random>
+
